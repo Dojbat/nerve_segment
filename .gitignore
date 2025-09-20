@@ -1,0 +1,5 @@
+images
+masks
+best_deeplabv3.pth
+best_fpn.pth
+best_unet.pth
